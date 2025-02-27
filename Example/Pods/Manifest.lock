@@ -1,0 +1,16 @@
+PODS:
+  - MyAwesomePod (0.1.0)
+
+DEPENDENCIES:
+  - MyAwesomePod (from `../`)
+
+EXTERNAL SOURCES:
+  MyAwesomePod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MyAwesomePod: 713b50e7304bdb499ab5ce6f8a98555e7e9262b5
+
+PODFILE CHECKSUM: 113bace662caca186be7d77f22dcbe95e2b08b1e
+
+COCOAPODS: 1.16.2
