@@ -23,9 +23,8 @@ TODO: Add long description of the pod here.
 
   s.homepage         = 'https://github.com/gagmkrt/MyAwesomePod'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
-  s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Gagik Mkrtchyan' => 'gagik.mkrtchyan@acba.am' }
-  s.source           = { :git => 'https://github.com/gagmkrt/newSwiftLib', :tag => '1.0'
+  s.source           = { :git => 'https://github.com/gagmkrt/newSwiftLib', :tag => '1.0'}
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '10.0'
